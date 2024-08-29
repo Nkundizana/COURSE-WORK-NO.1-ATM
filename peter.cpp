@@ -5,7 +5,7 @@ using namespace std;
 
 int main() {
     int pin;
-    int password = 123;
+    int password = 2345;
     int count = 0;
     int entry;
     double deposit = 0.0;
